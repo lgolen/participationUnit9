@@ -10,4 +10,5 @@
     <string name="action_sms">SMS</string>
     <string name="action_email">Email</string>
     <string name="title_activity_settings">SettingsActivity</string>
+    <string name="action_group_communicate">Communicate</string>
 </resources>
